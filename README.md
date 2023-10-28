@@ -21,3 +21,6 @@ Após realizar o pull do projeto, executar o comandos:
 
 * ```php artisan migrate```
     Esse comando irá criar o banco de dados e criar as tabelas presentes nas migrations
+
+* ``` php artisan serve ```
+    Esse irá iniciar o projeto, após isso o ambiente estará disponível no endereço ```localhost:8000```    
