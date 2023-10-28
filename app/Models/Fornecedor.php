@@ -3,8 +3,10 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
 
-class Fornecedor extends Models
+
+class Fornecedor extends Model
 {
     
     use HasFactory;
